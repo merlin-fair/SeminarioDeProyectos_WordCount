@@ -12,7 +12,7 @@ Steps:
 
 2) Ideally, practice using branches whilst making your modifications.
 
-3) Test that the python notebook file "html_scraping_bookwordcount.ipynb" runs with the preset example (install any required packages)
+3) Test that the python notebook file "html_scraping_bookwordcount.ipynb" runs with the preset example (install any required packages). [If cannot run locally, try uploading to: https://colab.research.google.com/ ]
 
 4) Change the code to run for your favorite book (or any book of your choice) and save a CSV file
 
