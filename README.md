@@ -18,4 +18,6 @@ Steps:
 
 5) Merge the repository with the original so that the generated CSV can be accessed by everyone
 
-6) Once the CSV files are ready, use "readCSV_wordcounts.ipynb" to merge the datasets and produce a figure displaying the most frequently occuring words
+6) Once the CSV files are ready, use "readCSV_wordcounts.ipynb" to merge the datasets and produce a new CSV file
+
+7) Upload the resulting CSV on Moodle
